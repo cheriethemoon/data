@@ -1,0 +1,270 @@
+{
+    "name":"Dining Collection",
+    "rating":"0.0323%",
+    "children":[
+        {
+            "name":"Autumn Edition",
+            "rating":"88.1116%",
+            "children":[
+                {
+                    "name":"Tao Downtown",
+                    "rating":"95.1116%",
+                    "size":9500
+                },
+                {
+                    "name":"Momofuku Milk Bar",
+                    "rating":"-22.1116%",
+                    "size":550
+                },
+                {
+                    "name":"The Lobster Place",
+                    "rating":"-13.1117%",
+                    "size":7000
+                },
+                {
+                    "name":"Num Pang Sandwich Shop",
+                    "rating":"-10.1117%",
+                    "size":7500
+                },
+                {
+                    "name":"Chef Yu",
+                    "rating":"-8.1118%",
+                    "size":6000
+                },
+                {
+                    "name":"Beyond Sushi",
+                    "rating":"-3.1119%",
+                    "size":7500
+                },
+                {
+                    "name":"So Gong Dong",
+                    "rating":"-15.1121%",
+                    "size":7000
+                },
+                {
+                    "name":"Spice Market",
+                    "rating":"90.1121%",
+                    "size":9000
+                }
+            ]
+        },
+        {
+            "name":"Winter Edition",
+            "rating":"99.0212%",
+            "children":[
+                {
+                    "name":"Juice Generation",
+                    "rating":"69.0213%",
+                    "size":800
+                },
+                {
+                    "name":"Laut",
+                    "rating":"90.0213%",
+                    "size":9000
+                },
+                {
+                    "name":"P.F. Chang's",
+                    "rating":"77.0214%",
+                    "size":7700
+                },
+                {
+                    "name":"Doma",
+                    "rating":"-36.0215%",
+                    "size":5600
+                },
+                {
+                    "name":"Tao Downtown",
+                    "rating":"95.0216%",
+                    "size":9500
+                },
+                {
+                    "name":"Hakkasan",
+                    "rating":"93.0218%",
+                    "size":9300
+                },
+                {
+                    "name":"Radiance",
+                    "rating":"3.0219%",
+                    "size":8800
+                },
+                {
+                    "name":"Lady M Cake Boutique",
+                    "rating":"-6.0219%",
+                    "size":800
+                },
+                {
+                    "name":"Radiance Tea House & Books",
+                    "rating":"92.0220%",
+                    "size":9500
+                }
+            ]
+        },
+        {
+            "name":"Spring Edition",
+            "rating":"90.0423",
+            "children":[
+                {
+                    "name":"Buddakan - this is to test wrapping of a super long label, really really really really really really really really really really really really really really really long",
+                    "rating":"95.0425%",
+                    "size":29500
+                },
+                {
+                    "name":"Grace Street",
+                    "rating":"73.0425%",
+                    "size":7300
+                },
+                {
+                    "name":"Blu Orchid Thai Kitchen",
+                    "rating":"-71.0427%",
+                    "size":6100
+                }
+            ]
+        },
+        {
+            "name":"Spring Edition II",
+            "rating":"0.0516",
+            "children":[
+                {
+                    "name":"Sigiri",
+                    "rating":"63.0%",
+                    "size":6300
+                },
+                {
+                    "name":"Kottu House",
+                    "rating":"0.0%",
+                    "size":5000
+                },
+                {
+                    "name":"Mr Chow",
+                    "rating":"81.0%",
+                    "size":8100
+                },
+                {
+                    "name":"California Pizza Kitchen",
+                    "rating":"-5.0%",
+                    "size":5000
+                },
+                {
+                    "name":"Rasa",
+                    "rating":"7.0%",
+                    "size":7000
+                },
+                {
+                    "name":"Ippudo",
+                    "rating":"5.0%",
+                    "children":[
+                        {
+                            "name":"il laboratorio del gelato",
+                            "rating":"21.0%",
+                            "size":880
+                        },
+                        {
+                            "name":"Junior’s Restaurant",
+                            "rating":"-43.0%",
+                            "size":550
+                        },
+                        {
+                            "name":"Spot Dessert Bar",
+                            "rating":"-2.0%",
+                            "size":790
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "name":"Boston Edition",
+            "rating":"0.0%",
+            "children":[
+                {
+                    "name":"Atlantic Fish Company",
+                    "rating":"80.0%",
+                    "size":8000
+                },
+                {
+                    "name":"Legal Sea Foods",
+                    "rating":"72.0%",
+                    "size":7200
+                }
+            ]
+        },
+        {
+            "name":"Summer Edition",
+            "rating":"0.0%",
+            "children":[
+                {
+                    "name":"True Food Kitchen",
+                    "rating":"96.0%",
+                    "size":9200
+                },
+                {
+                    "name":"Le Pain Quotidien",
+                    "rating":"86.0%",
+                    "size":8600
+                },
+                {
+                    "name":"Chipotle Mexican Grill",
+                    "rating":"68.0%",
+                    "size":6800
+                },
+                {
+                    "name":"Bareburger",
+                    "rating":"73.0%",
+                    "size":7300
+                },
+                {
+                    "name":"Chop't Creative Salad Company",
+                    "rating":"60.0%",
+                    "size":6000
+                }
+            ]
+        },
+        {
+            "name":"London Edition",
+            "rating":"0.0%",
+            "children":[
+                {
+                    "name":"Hakkasan",
+                    "rating":"95.0%",
+                    "size":9500
+                },
+                {
+                    "name":"Duck & Waffle",
+                    "rating":"88.0%",
+                    "size":8800
+                },
+                {
+                    "name":"Dans Le Noir",
+                    "rating":"77.0%",
+                    "size":7700
+                }
+            ]
+        },
+        {
+            "name":"LA Edition",
+            "rating":"0.0%",
+            "children":[
+                {
+                    "name":"Din Tai Fung",
+                    "rating":"80.0%",
+                    "size":8000
+                },
+                {
+                    "name":"Bao Dim Sum House",
+                    "rating":"0.0%",
+                    "size":6200
+                },
+                {
+                    "name":"85C Bakery Cafe",
+                    "rating":"75.0%",
+                    "size":750
+                },
+                {
+                    "name":"Half & Half Tea House",
+                    "rating":"-72.0%",
+                    "size":720
+                }
+            ]
+        }
+    ]
+}
