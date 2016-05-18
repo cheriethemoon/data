@@ -169,6 +169,11 @@
                             "size":790
                         }
                     ]
+                },
+                {
+                    "name":"Chart House",
+                    "rating":"83.0%",
+                    "size":8300
                 }
             ]
         },
@@ -180,6 +185,36 @@
                     "name":"Atlantic Fish Company",
                     "rating":"80.0%",
                     "size":8000
+                },
+                {
+                    "name":"Mary Chung",
+                    "rating":"70.0%",
+                    "size":7000
+                },
+                {
+                    "name":"Top of the Hub",
+                    "rating":"77.0%",
+                    "size":7700
+                },
+                {
+                    "name":"Cafe Mami",
+                    "rating":"80.0%",
+                    "size":8000
+                },
+                {
+                    "name":"Craigie On Main",
+                    "rating":"78.0%",
+                    "size":7800
+                },
+                {
+                    "name":"Victoria Seafood Restaurant",
+                    "rating":"67.0%",
+                    "size":6700
+                },
+                {
+                    "name":"Taiwan Cafe",
+                    "rating":"68.0%",
+                    "size":6800
                 },
                 {
                     "name":"Legal Sea Foods",
