@@ -159,6 +159,20 @@
                             "size":880
                         },
                         {
+                            "name":"Dominique Ansel Bakery",
+                            "rating":"18.0%",
+                            "size":880,
+                            "link":{
+                                "Yelp":"https://www.yelp.com/biz/dominique-ansel-bakery-new-york"
+                            },
+                            "address":{
+                                "full":"189 Spring St, New York, NY 10012, US"
+                            },
+                            "try":[
+                                "cronut"
+                            ]
+                        },
+                        {
                             "name":"Junior’s Restaurant",
                             "rating":"-43.0%",
                             "size":550
@@ -262,6 +276,18 @@
                     "name":"Hakkasan",
                     "rating":"95.0%",
                     "size":9500
+                },
+                {
+                    "name":"Spice Market",
+                    "rating":"80.0%",
+                    "size":8000,
+                    "link":{
+                        "Yelp":"https://www.yelp.com/biz/spice-market-london"
+                    },
+                    "address":{
+                        "full":"10 Wardour Street, London W1D 6QF, UK",
+                        "short":"Leicester Square"
+                    }
                 },
                 {
                     "name":"Duck & Waffle",
